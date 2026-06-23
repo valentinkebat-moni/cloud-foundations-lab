@@ -205,7 +205,7 @@ awslocal s3api list-object-versions \
 awslocal s3api delete-object \
   --bucket course-data-lake \
   --key raw/olist/orders.csv \
-  --version-id <VERSION_ID>
+  --version-id I1AddVF5Vmx.leDvVWuqdEXtPDnJtulM
 ```
 
 ---
